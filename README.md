@@ -15,7 +15,7 @@ Welcome to the **Markdown Guides Repository**! This repository contains various 
 
 To use the guides in this repository, simply browse through the Markdown (`.md`) files and read the relevant instructions.
 
-If you are new to virtual environments, check out the guide: [Virtual Environments Guide](Readme-Guides/Setup%20Old%20Version%20Python%20Virtual%20Environment.md)
+If you are new to virtual environments, check out the guide: [Virtual Environments Guide](/Setup%20Old%20Version%20Python%20Virtual%20Environment.md)
 
 ---
 
