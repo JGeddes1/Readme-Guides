@@ -27,7 +27,6 @@ This repository contains the following guides:
 2.  ** [Virtual Environments with Jupyter Usage Guide](/Running%20a%20Jupyter%20Notebook%20in%20a%20Virtual%20Environment.md)** - Learn how to use Python virtual environments with Jupyter Notebook (Non-technical).
 3. **More to Come** - More guides will be added soon!
 
-Each guide is stored in the `guides/` directory. Feel free to explore and contribute.
 
 ---
 
