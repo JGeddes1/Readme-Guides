@@ -13,13 +13,8 @@ If you have a Jupyter Notebook file that you need to run but are unsure about th
 
 ## Activating the Virtual Environment
 
-Once a virtual environment has been created, you need to activate it before running Jupyter Notebook.
+I have created a virtual environment named python3.8, you need to activate it before running your Jupyter Notebook build. To activate the virtual environment do the following:
 
-### **Windows**
-```sh
-my_env\Scripts\activate
-
-```
 
 ### **macOS/Linux**
 ```sh
