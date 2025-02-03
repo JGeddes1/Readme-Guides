@@ -49,6 +49,19 @@ Simply closing the terminal window will also deactivate the environment automati
 
 ---
 
+## Running Jupyter Notebook with Virtual Environment
+
+Once a virtual environment has been created and activated, you need to simply find your jupyter notebook files and run the following command:
+
+### **macOS/Linux**
+```sh
+jupyter-book build g2gp-marine-full/
+
+
+```
+You should be able to see the page is now available to view
+---
+
 ## Extra Tips & Troubleshooting
 
 - **How to check installed packages:** Run `pip list` to see what is installed inside the virtual environment.
