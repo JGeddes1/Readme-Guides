@@ -18,11 +18,15 @@ Once a virtual environment has been created, you need to activate it before runn
 ### **Windows**
 ```sh
 my_env\Scripts\activate
+
 ```
 
 ### **macOS/Linux**
 ```sh
 source my_env/bin/activate
+
+source /home/python3.8/bin/activate
+
 ```
 my_env is the name of your virtual environment this can be named anything so make sure it is the name of your virtual environment.
 Once activated, you will see `(my_env)` appear before your terminal prompt, indicating that you are inside the virtual environment.
