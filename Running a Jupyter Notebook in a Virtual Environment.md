@@ -24,7 +24,7 @@ my_env\Scripts\activate
 ```sh
 source my_env/bin/activate
 ```
-
+my_env is the name of your virtual environment this can be named anything so make sure it is the name of your virtual environment.
 Once activated, you will see `(my_env)` appear before your terminal prompt, indicating that you are inside the virtual environment.
 
 ---
