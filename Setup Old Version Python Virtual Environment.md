@@ -53,6 +53,8 @@ Python 3.8.X
 mkdir python3.8 && cd python3.8
 ```
 
+Dont forget to update ownership from root root to user:group e.g chown jgg513:adssys python3.8
+
 ### 2. Create a Virtual Environment
 
 To create a virtual environment using Python 3.8, run:
