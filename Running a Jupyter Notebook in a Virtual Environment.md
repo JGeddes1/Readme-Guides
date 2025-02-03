@@ -29,17 +29,6 @@ Once activated, you will see `(my_env)` appear before your terminal prompt, indi
 
 ---
 
-## Running a Jupyter Notebook
-
-With the virtual environment activated, you can now launch Jupyter Notebook:
-```sh
-jupyter notebook
-```
-This will open a browser window where you can navigate to and open your `.ipynb` file.
-
-To run the code inside a cell, click inside it and press `Shift + Enter`.
-
----
 
 ## Deactivating the Virtual Environment
 
