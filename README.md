@@ -7,7 +7,6 @@ Welcome to the **Markdown Guides Repository**! This repository contains various 
 - [Getting Started](#getting-started)
 - [Guides](#guides)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
