@@ -22,7 +22,7 @@ If you are new to virtual environments, check out the guide: [Virtual Environmen
 
 This repository contains the following guides:
 
-1. **Virtual Environments** - Learn how to install and use Python virtual environments.
+1. ** [Virtual Environments Guide](/Setup%20Old%20Version%20Python%20Virtual%20Environment.md)** - Learn how to install and use Python virtual environments.
 2. **More to Come** - More guides will be added soon!
 
 Each guide is stored in the `guides/` directory. Feel free to explore and contribute.
