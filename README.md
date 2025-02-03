@@ -4,9 +4,10 @@ Welcome to the **Markdown Guides Repository**! This repository contains various 
 
 ## 📖 Contents
 
-- [Getting Started](#getting-started)
-- [Guides](#guides)
-- [Contributing](#contributing)
+- [Getting Started](#-getting-started)
+- [Guides](#-guides)
+- [Contributing](#-contributing)
+
 
 ---
 
